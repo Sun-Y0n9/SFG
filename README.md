@@ -13,3 +13,5 @@
 + Git tracks changes of files.
 + git checkout -- README.md 撤销工作区的中的修改
 + git checkout b1 切换到b1分支
++ git reset HEAD file.ext 撤销暂存区的修改; 
++ 
