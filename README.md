@@ -8,3 +8,5 @@
     * git reset --hard HEAD^^ 上上一个版本
     * git reset --hard HEAD~100 上100个版本
     * git reset --hard 29d7q 回到版本号为的29d7q版本
++ git log 查看提交信息
++ git reflog 查看所有提交信息
