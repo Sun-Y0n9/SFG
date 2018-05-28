@@ -10,4 +10,4 @@
     * git reset --hard 29d7q 回到版本号为的29d7q版本
 + git log 查看提交信息 用于回退到以前版本的版本号查看
 + git reflog 查看所有提交信息 用于返回到最新版本的版本号查看
-+ Git tracks changes.
++ Git tracks changes of files.
