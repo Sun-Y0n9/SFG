@@ -15,5 +15,8 @@
 + git checkout b1 切换到b1分支
 + git reset HEAD file.ext 撤销暂存区的修改; 撤销git add 的操作
 + 测试 2
-+ git re file.ext 确认删除一个文件
++ git rm file.ext 确认删除一个文件
 + git checkout -- test.txt 将暂存区的文件覆盖掉工作区的文件,也就是撤销工作区中的修改,极端情况,删除了工作区的文件,可使用版本库里的文件找回;
++ git push 本地代码提交到服务器;
++ git clone 克隆 git clone git@github.com:Sun-Y0n9/SFG.git;
++ 
